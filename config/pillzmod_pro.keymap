@@ -23,7 +23,7 @@
            &kp GRAVE  &kp INSERT  &kp LEFT  &kp RIGHT                                                                              &kp UP     &kp DOWN   &kp LBKT  &kp RBKT
                                                        &kp LGUI    &kp LALT                      &kp RALT               &kp RGUI
                                                                    &kp LCTRL                     &kp RCTRL
-                                            &kp BSPC   &kp DELETE  &kp LA(LC(LGUI))          &kp RA(RC(RGUI)))  &kp ENTER  &kp SPACE
+                                            &kp BSPC   &kp DELETE  &kp LA(LC(LGUI))          &kp RA(RC(RGUI))  &kp ENTER  &kp SPACE
 &kp A      &kp B      &kp C
             >;
         };
